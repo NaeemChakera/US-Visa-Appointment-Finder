@@ -1,4 +1,4 @@
-# visa_rescheduler — Kenya (U.S. Embassy Nairobi) tailored README
+# visa_rescheduler — Kenya (U.S. Embassy Nairobi)
 
 This fork/edition of `visa_rescheduler` is tailored to help monitor and (optionally) reschedule U.S. visa appointment slots specifically for the U.S. Embassy in Nairobi, Kenya (usvisa-info.com). Use this only to be notified of earlier slots — avoid automated bookings unless you fully understand the legal and account risks.
 
