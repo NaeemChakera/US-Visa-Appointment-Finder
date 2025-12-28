@@ -205,9 +205,9 @@ sudo systemctl enable --now visa_rescheduler
 
 ---
 
-## What I learned from running this project on AWS (recruiter-friendly)
+## What I learned from running this project on AWS
 
-Deploying and operating this bot on AWS taught me several practical, recruiter-friendly skills across development, operations and security:
+Deploying and operating this bot on AWS taught me several practical skills across development, operations and security:
 
 - Containerization & CI/CD
   - I containerized the app (Docker) and pushed images to Amazon ECR.
@@ -237,7 +237,7 @@ Deploying and operating this bot on AWS taught me several practical, recruiter-f
   - I modeled the deployment using IaC (CloudFormation or Terraform) so the setup is reproducible, reviewable and version-controlled.
   - This made deployments to staging/production consistent and easy to roll back.
 
-Recruiter-friendly summary: deploying this project gave me hands-on experience with containerization, CI/CD, secrets management, observability (logs/metrics/alerts), secure IAM practices, cost-optimized managed services (ECS Fargate / EventBridge), and making scraping workloads reliable and maintainable in the cloud.
+All in all, deploying this project gave me hands-on experience with containerization, CI/CD, secrets management, observability (logs/metrics/alerts), secure IAM practices, cost-optimized managed services (ECS Fargate / EventBridge), and making scraping workloads reliable and maintainable in the cloud.
 
 ---
 
